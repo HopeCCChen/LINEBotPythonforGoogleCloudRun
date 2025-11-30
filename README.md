@@ -63,20 +63,11 @@
 # 
 
 # 本專案依賴以下環境變數，請勿將金鑰直接寫入程式碼：
-
-# 
-
-# | 變數名稱 | 描述 |
-
-# | :--- | :--- |
-
-# | `LINE\_CHANNEL\_SECRET` | LINE Channel Secret |
-
-# | `LINE\_CHANNEL\_ACCESS\_TOKEN` | LINE Channel Access Token (Long-lived) |
-
-# | `PORT` | Cloud Run 自動注入 (預設 8080) |
-
-# 
+| 變數名稱 | 描述 |
+| :--- | :--- |
+| `LINE_CHANNEL_SECRET` | LINE Channel Secret |
+| `LINE_CHANNEL_ACCESS_TOKEN` | LINE Channel Access Token (Long-lived) |
+| `PORT` | Cloud Run 自動注入 (預設 8080) |
 
 # \## 💻 本地端開發 (Local Development)
 
