@@ -65,7 +65,7 @@
 
 ```bash
 git clone https://github.com/HopeCCChen/LINEBotPythonforGoogleCloudRun.git
-cd linebot-cloudrun
+cd LINEBotPythonforGoogleCloudRun
 ```
 
 ### 2. 安裝依賴
