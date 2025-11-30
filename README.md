@@ -64,7 +64,7 @@
 ### 1. Clone 專案
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linebot-cloudrun.git
+git clone https://github.com/HopeCCChen/LINEBotPythonforGoogleCloudRun.git
 cd linebot-cloudrun
 ```
 
